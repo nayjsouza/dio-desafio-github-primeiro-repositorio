@@ -2,4 +2,4 @@
 Desafio de Projeto sobre Git/GitHub
 
 ## Links Úteis
-[Sintaze Basica Marcksown] (https://www.markdownguide.org/basic-syntax/)
+[ Sintaze Basica Marcksown ](https://www.markdownguide.org/basic-syntax/)
