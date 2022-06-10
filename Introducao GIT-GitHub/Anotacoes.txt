@@ -1,0 +1,2 @@
+O Git Bash pe um terminal extendido para otimizar o uso do GIT.
+Funções do GIT: 
